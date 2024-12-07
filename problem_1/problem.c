@@ -1,4 +1,6 @@
 /*
+ * Problem Statement
+ *
  * Create a GStreamer program that takes a file as an input and plays both the 
  * audio and video on the screen.
  */
